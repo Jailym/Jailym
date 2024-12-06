@@ -23,7 +23,7 @@ Welcome to my GitHub profile! 🚀 I'm Namra, a passionate programmer and tech e
 ---
 
 ### 🛠️ **Tools & Technologies**
-- **Frontend:** React.js, Vue.js, SASS, Tailwind CSS  
+- **Frontend:** React.js, Next.js, SASS, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
 - **Others:** Git, Docker, Linux  
